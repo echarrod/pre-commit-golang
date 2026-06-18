@@ -1,0 +1,20 @@
+lib/prepare-go-tool.bash
+  s_8dc8fb45d04069::t_ccffe7543c7eaa 54
+  s_8dc8fb45d04069::t_335f6ae4353572 46
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "2f383a72c08fd0cb0fea244e88a431aed2ca2b49",
+  "prompts": {},
+  "sessions": {
+    "s_8dc8fb45d04069": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f7bf8bec-1a48-4856-a065-b9726a4ac233",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Ed Harrod <echarrod@gmail.com>"
+    }
+  }
+}
